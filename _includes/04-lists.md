@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* Spending Time with Family
+* Watching Football
+* Learning to Code
+* Being Outside
